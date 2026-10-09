@@ -6,11 +6,12 @@ The dashboard is designed to work with a backend monitoring service that pushes 
 
 ## Demo
 
-<div align="center">
-  <video src="./docs/media/VigilDashboard.mp4" controls muted playsinline width="100%" style="max-width: 1200px; border-radius: 12px; box-shadow: 0 12px 32px rgba(0,0,0,0.25);"></video>
-</div>
+GitHub does not render inline MP4 playback inside a repository README. To keep the demo accessible, use the direct video link below.
 
-You can also watch the demo video directly in the repository at [docs/media/VigilDashboard.mp4](./docs/media/VigilDashboard.mp4).
+- Watch the demo video: [VigilDashboard.mp4](https://raw.githubusercontent.com/roysparsha8/vigil-dashboard/main/docs/media/VigilDashboard.mp4)
+- Or open the file in the repository: [docs/media/VigilDashboard.mp4](./docs/media/VigilDashboard.mp4)
+
+This link opens the video in the browser or allows it to be downloaded directly.
 
 ## Overview
 
