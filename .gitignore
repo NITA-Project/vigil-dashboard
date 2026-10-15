@@ -26,7 +26,5 @@ dist-ssr
 # Configurations
 *.config.js
 
-# Packages
-package-lock.json
-package.json
+
 
